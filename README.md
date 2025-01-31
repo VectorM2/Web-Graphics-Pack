@@ -62,4 +62,19 @@
 - **[Frontend Mentor](https://www.frontendmentor.io/)** – Real-world frontend challenges.  
 - **[Codewell](https://www.codewell.cc/)** – Free design templates for coding practice.  
 - **[CSSBattle](https://cssbattle.dev/)** – Fun game for improving CSS skills.  
-- **[100 Days of Code](https://www.100daysofcode.com/)** – Challenge yourself to code daily.  
+- **[100 Days of Code](https://www.100daysofcode.com/)** – Challenge yourself to code daily.
+
+---
+
+### **9. Stock Photos & Textures**  
+9. **[Pexels](https://www.pexels.com/)** – Free high-quality images.  
+10. **[Unsplash](https://unsplash.com/)** – Beautiful stock photos.  
+11. **[Pixabay](https://www.pixabay.com/)** – Free images, videos, and illustrations.  
+12. **[Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)** – Free seamless background patterns.  
+
+### **10. Other UI Resources**  
+13. **[UI Gradients](https://uigradients.com/)** – Free gradient backgrounds.  
+14. **[CSS Gradient](https://cssgradient.io/)** – Create and copy custom gradients.  
+15. **[Blobmaker](https://www.blobmaker.app/)** – Generate custom organic blob shapes for backgrounds.  
+16. **[Haikei](https://haikei.app/)** – Generate SVG waves, blobs, and patterns for web design.  
+
